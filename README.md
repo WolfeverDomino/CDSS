@@ -20,10 +20,10 @@ Yup you've heard me alumnis, this crazy lunatic just designed the whole damn sch
   * The file should be along with the rest in this repository.
   * If not, go to this Google Drive link as Github does not exceed 25Mb: 
   
-  2. Proceed to extract the file.
+  2. Proceed to extract the world file.
   3. Open Windows and type %appdata%. (Judging that you have the game already)
   4. Open the folder and open saves folder.
-  5. Drag the extracted file into the saves folder.
+  5. Drag the extracted world file into the saves folder. (only world file)
   6. Load up the game and open Single Player.
   7. You should be able to see the world present in your list.
   8. Happy Memories.
