@@ -1,2 +1,43 @@
-# CDSS
-Chestnut Drive Secondary School in Minecraft. Can't get simpler than that.
+  <p align="center">
+  <img src="https://scontent.fsin9-2.fna.fbcdn.net/v/t1.18169-9/1623292_1450443151907269_5515624249546802743_n.png?_nc_cat=103&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=wEbtQfUuMe4AX9pre8t&_nc_ht=scontent.fsin9-2.fna&oh=00_AT_XtjyAFpowAFMelFAxJ75jtbS-Q58cd2NaAHKNR1F4hA&oe=624E764E" />
+  
+  <img src="https://scontent.fsin9-2.fna.fbcdn.net/v/t31.18172-8/10499492_1450183508599900_8232573160863887219_o.jpg?_nc_cat=106&ccb=1-5&_nc_sid=e3f864&_nc_ohc=4mIJ2u4JhfgAX_JHxRz&_nc_ht=scontent.fsin9-2.fna&oh=00_AT8sdEX3JFKibIQafSNPoAGUnjVSUYHa_BaY8zcsEsLiZw&oe=6250155F" />
+
+# Chestnut Drive Secondary School (CDSS) in Minecraft
+Yup you've heard me alumnis, this crazy lunatic just designed the whole damn school that has a length of 0.73 kilometres in Minecraft almost 1:1 Scale. (Taking consideration that your character is 2 blocks high)
+
+## Why?
+  Firstly, Chestnut Drive Secondary School had merged with FJS and "migrated" leaving the old building still at the original place to rot. It is indefinitely dissapointing that the place that is still here today serves no purpose. Secondly as alumni of CDSS, going to FJS does not feel the same way as how it was in CDSS. We cannot share the experiences we had or sympathize with just words about distant memories. In my position, if I want to revisit a memory I had, I go that location and see it all happen like a cinema playing in my head. Now of course I can do that anywhere but it's much tougher as we get older when we can't be there. I personally have a deep connection to this school history as it is the school that made my life change, I thought of going back to thank the teachers and show them how much they've made a difference but I can't. These are the reasons and motivations on why I started building the school.
+  
+## How do I build the school?
+
+  I used my old photos and videos I took in my secondary school days, then I included the use of the internet. I searched for every possible results, external websites and social media, to look for images or videos that can help in uncovering certain areas of the school. Do note I strictly only use them for visual and confirmation purposes that my build is accurate and correct.
+  
+  If you do have any photos or videos of CDSS compound and are willing to give me the permission to use them in this build, please do send your support to charon153606@gmail.com . Your support will be greatly appreciated and your name may be posted here and in the build as a sign of gratitude, with your permission.
+  
+## How do I open the file?
+  1. There are 2 ways to get the file first.
+  * The file should be along with the rest in this repository.
+  * If not, go to this Google Drive link as Github does not exceed 25Mb: 
+  
+  2. Proceed to extract the file.
+  3. Open Windows and type %appdata%. (Judging that you have the game already)
+  4. Open the folder and open saves folder.
+  5. Drag the extracted file into the saves folder.
+  6. Load up the game and open Single Player.
+  7. You should be able to see the world present in your list.
+  8. Happy Memories.
+  
+## Building Journal
+  When I first thought of the idea about building CDSS in mid 2017, I was pushed to my limit to accomplish that goal during my Institute of Technical Education (ITE) days. It was also the time when I still have some connections to my old secondary school friends.
+  
+  Progress Made
+  * School Entrance
+  * Soccer Field
+  * Foyer
+  * Back Canteen Entrance
+  * Canteen
+  
+  I stopped later in late 2017 because at that time I had lost all my friends and my relationship, it became harder every day to continue as building CDSS only reminds me of my losses. It was not until mid 2018 that I continued constructing CDSS as I had better changed my whole lifestyle. It was partially due to some chats I had with teachers that somehow reminded me, especially one from my Maths teacher, a great teacher. Ms Alison Wu told me about friends, and forgive me if I'm wrong, she said "You have to make changes to your life, these friends are not going to be with you forever. You have to do something about yourself."
+  
+  Now I have completed most of the structural design, interior and exterior design, some of it are quite off the 1:1 scale but I can't change them as it is quite impossible. Picture this, how do you build a 35 degree building in a cube world with every decoration in place exactly the way it is. The answer is impossible, but I peservered none the less, now instead of designing inside the present buildings, I put teleportation pads to make you go to another location but greatly improved layout in the inside. Rather than putting every decoration in a very odd angle.
