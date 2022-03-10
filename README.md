@@ -13,6 +13,9 @@ Yup you've heard me alumnis, this crazy lunatic just designed the whole damn sch
 
   I used my old photos and videos I took in my secondary school days, then I included the use of the internet. I searched for every possible results, external websites and social media, to look for images or videos that can help in uncovering certain areas of the school. Do note I strictly only use them for visual and confirmation purposes that my build is accurate and correct.
   
+  ![Screenshot 2022-03-11 043735](https://user-images.githubusercontent.com/91014375/157750388-ec611fad-f1e7-418e-9d7f-afb4fe40f7e3.jpg)
+  
+  
   If you do have any photos or videos of CDSS compound and are willing to give me the permission to use them in this build, please do send your support to charon153606@gmail.com . Your support will be greatly appreciated and your name may be posted here and in the build as a sign of gratitude, with your permission.
   
 ## How do I open the file?
