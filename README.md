@@ -6,6 +6,9 @@
 # Chestnut Drive Secondary School (CDSS) in Minecraft
 Yup you've heard me alumnis, this crazy lunatic just designed the whole damn school that has a length of 0.73 kilometres in Minecraft almost 1:1 Scale. (Taking consideration that your character is 2 blocks high)
 
+  "Building My Old School in Minecraft (1/3)" YouTube Link: https://www.youtube.com/watch?v=lo5yC6VteSM&t=326s
+  
+  
 ## Why?
   Firstly, Chestnut Drive Secondary School had merged with FJS and "migrated" leaving the old building still at the original place to rot. It is indefinitely dissapointing that the place that is still here today serves no purpose. Secondly as alumni of CDSS, going to FJS does not feel the same way as how it was in CDSS. We cannot share the experiences we had or sympathize with just words about distant memories. In my position, if I want to revisit a memory I had, I go that location and see it all happen like a cinema playing in my head. Now of course I can do that anywhere but it's much tougher as we get older when we can't be there. I personally have a deep connection to this school history as it is the school that made my life change, I thought of going back to thank the teachers and show them how much they've made a difference but I can't. These are the reasons and motivations on why I started building the school.
   
@@ -17,7 +20,7 @@ Yup you've heard me alumnis, this crazy lunatic just designed the whole damn sch
   
   If you do have any photos or videos of CDSS compound and are willing to give me the permission to use them in this build, please do send your support to charon153606@gmail.com . Your support will be greatly appreciated and your name may be posted here and in the build as a sign of gratitude, with your permission.
   
-  [ Do Note: Teleportation Pads (Stone Pressure Plates) does not work yet in Worldv7.1 ]
+  [ Do Note: Teleportation Pads (Stone Pressure Plates) does not work yet in Worldv7.2 ]
   
 ## How do I open the file?
   1. There are 2 ways to get the file first.
