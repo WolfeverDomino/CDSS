@@ -15,8 +15,9 @@ Yup you've heard me alumnis, this crazy lunatic just designed the whole damn sch
   
   ![Screenshot 2022-03-11 043735](https://user-images.githubusercontent.com/91014375/157750388-ec611fad-f1e7-418e-9d7f-afb4fe40f7e3.jpg)
   
-  
   If you do have any photos or videos of CDSS compound and are willing to give me the permission to use them in this build, please do send your support to charon153606@gmail.com . Your support will be greatly appreciated and your name may be posted here and in the build as a sign of gratitude, with your permission.
+  
+  [ Do Note: Teleportation Pads (Stone Pressure Plates) does not work yet in Worldv7.1 ]
   
 ## How do I open the file?
   1. There are 2 ways to get the file first.
