@@ -25,7 +25,7 @@ Yup you've heard me alumnis, this crazy lunatic just designed the whole damn sch
 ## How do I open the file?
   1. There are 2 ways to get the file first.
   * The file should be along with the rest in this repository.
-  * If not, go to this Google Drive link as Github does not exceed 25Mb: 
+  * If not, go to this Google Drive link as Github does not exceed 25Mb: https://drive.google.com/drive/folders/1xZClUYAE4IS8cYiFpRzcyH8KSZ1Xv6VH?usp=sharing
   
   2. Proceed to extract the world file.
   3. Open Windows and type %appdata%. (Judging that you have the game already)
