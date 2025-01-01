@@ -1,13 +1,20 @@
-  <p align="center">
-    ![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmoehc.moe.edu.sg%2Fschool-histories%2Fchestnut-drive-sec%2F&psig=AOvVaw10GFjzvTbYZdX9dP49R_b9&ust=1735800708895000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKD1mtf304oDFQAAAAAdAAAAABAE)
-  </p>
-  
+
+![301900599_597644455390824_6054685875910019086_n](https://github.com/user-attachments/assets/eb0e4802-e9fa-4a3a-b87c-ff538c566cd1 "height=200")     ![minecraft (1)](https://github.com/user-attachments/assets/3a901807-def6-450b-b7c1-a95a2f45cf4e)
+
 # Chestnut Drive Secondary School (CDSS) in Minecraft
 Yup you've heard me alumnis, this crazy lunatic just designed the whole damn school that has a length of 0.73 kilometres in Minecraft almost 1:1 Scale. (Taking consideration that your character is 2 blocks high)
 
-  "Building My Old School in Minecraft (1/3)" YouTube Link: https://www.youtube.com/watch?v=lo5yC6VteSM&t=326s
-  
-  
+**"Building My Old School in Minecraft (1/3)"**
+
+[![Watch the video](https://i9.ytimg.com/vi/lo5yC6VteSM/mqdefault.jpg?v=5f76f800&sqp=CMjU07sG&rs=AOn4CLBIn8UnpCRVefFYHcN3ySiI1H8Qaw "width=150")](https://www.youtube.com/watch?v=lo5yC6VteSM)
+
+YouTube Link: https://www.youtube.com/watch?v=lo5yC6VteSM&t=326s
+
+**IMPORTANT UPDATE**
+
+1/1/2025 - Work has been resumed with new images & documentations for the build.
+
+
 ## Why?
   Firstly, Chestnut Drive Secondary School had merged with FJS and "migrated" leaving the old building still at the original place to rot. It is indefinitely dissapointing that the place that is still here today serves no purpose. Secondly as alumni of CDSS, going to FJS does not feel the same way as how it was in CDSS. We cannot share the experiences we had or sympathize with just words about distant memories. In my position, if I want to revisit a memory I had, I go that location and see it all happen like a cinema playing in my head. Now of course I can do that anywhere but it's much tougher as we get older when we can't be there. I personally have a deep connection to this school history as it is the school that made my life change, I thought of going back to thank the teachers and show them how much they've made a difference but I can't. These are the reasons and motivations on why I started building the school.
   
