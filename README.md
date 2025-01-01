@@ -1,8 +1,7 @@
   <p align="center">
-  <img src="https://scontent.fsin9-2.fna.fbcdn.net/v/t1.18169-9/1623292_1450443151907269_5515624249546802743_n.png?_nc_cat=103&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=wEbtQfUuMe4AX9pre8t&_nc_ht=scontent.fsin9-2.fna&oh=00_AT_XtjyAFpowAFMelFAxJ75jtbS-Q58cd2NaAHKNR1F4hA&oe=624E764E" />
+    ![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmoehc.moe.edu.sg%2Fschool-histories%2Fchestnut-drive-sec%2F&psig=AOvVaw10GFjzvTbYZdX9dP49R_b9&ust=1735800708895000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKD1mtf304oDFQAAAAAdAAAAABAE)
+  </p>
   
-  <img src="https://scontent.fsin9-2.fna.fbcdn.net/v/t31.18172-8/10499492_1450183508599900_8232573160863887219_o.jpg?_nc_cat=106&ccb=1-5&_nc_sid=e3f864&_nc_ohc=4mIJ2u4JhfgAX_JHxRz&_nc_ht=scontent.fsin9-2.fna&oh=00_AT8sdEX3JFKibIQafSNPoAGUnjVSUYHa_BaY8zcsEsLiZw&oe=6250155F" />
-
 # Chestnut Drive Secondary School (CDSS) in Minecraft
 Yup you've heard me alumnis, this crazy lunatic just designed the whole damn school that has a length of 0.73 kilometres in Minecraft almost 1:1 Scale. (Taking consideration that your character is 2 blocks high)
 
